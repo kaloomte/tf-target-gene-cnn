@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.6",
+    "heartbeatAt": "2021-01-12T19:01:53.089630",
+    "startedAt": "2021-01-12T19:01:48.329618",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\MHMTGNS\\AppData\\Roaming\\jupyter\\runtime\\kernel-e397bc9a-9ffc-4fd2-8c08-8e5555a3aa79.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "DESKTOP-D6GD4KG",
+    "username": "MHMTGNS",
+    "executable": "c:\\users\\mhmtgns\\appdata\\local\\programs\\python\\python37\\python.exe"
+}

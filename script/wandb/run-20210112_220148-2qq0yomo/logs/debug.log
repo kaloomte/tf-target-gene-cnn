@@ -1,0 +1,18 @@
+2021-01-12 22:01:48,332 INFO    MainThread:280 [wandb_setup.py:_flush():70] setting env: {}
+2021-01-12 22:01:48,332 INFO    MainThread:280 [wandb_setup.py:_flush():70] multiprocessing start_methods=spawn
+2021-01-12 22:01:48,332 INFO    MainThread:280 [wandb_setup.py:_flush():70] setting login settings: {}
+2021-01-12 22:01:48,332 INFO    MainThread:280 [wandb_setup.py:_flush():70] setting login settings: {'api_key': '0d40d79185bce852640076a6321690e503169b08'}
+2021-01-12 22:01:48,332 INFO    MainThread:280 [wandb_setup.py:_flush():70] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001A31AC19288>
+2021-01-12 22:01:48,333 INFO    MainThread:280 [wandb_init.py:_log_setup():318] Logging user logs to C:\Users\MHMTGNS\Desktop\Yeni klasör\script\wandb\run-20210112_220148-2qq0yomo\logs\debug.log
+2021-01-12 22:01:48,333 INFO    MainThread:280 [wandb_init.py:_log_setup():319] Logging internal logs to C:\Users\MHMTGNS\Desktop\Yeni klasör\script\wandb\run-20210112_220148-2qq0yomo\logs\debug-internal.log
+2021-01-12 22:01:53,103 INFO    MainThread:280 [wandb_run.py:_console_start():1308] atexit reg
+2021-01-12 22:01:53,103 INFO    MainThread:280 [wandb_run.py:_redirect():1175] redirect: SettingsConsole.WRAP
+2021-01-12 22:01:53,104 INFO    MainThread:280 [wandb_run.py:_redirect():1206] Wrapping output streams.
+2021-01-12 22:01:53,104 INFO    MainThread:280 [wandb_run.py:_redirect():1222] Redirects installed.
+2021-01-12 22:01:53,604 INFO    MainThread:280 [wandb_init.py:_pause_backend():239] pausing backend
+2021-01-12 22:02:28,657 INFO    MainThread:280 [wandb_init.py:_resume_backend():244] resuming backend
+2021-01-12 22:15:35,520 INFO    MainThread:280 [wandb_init.py:_pause_backend():239] pausing backend
+2021-01-12 22:15:50,228 INFO    MainThread:280 [wandb_init.py:_resume_backend():244] resuming backend
+2021-01-12 22:15:50,732 INFO    MainThread:280 [wandb_run.py:finish():983] finishing run mhmtgns/tf-target-prediction-2/2qq0yomo
+2021-01-12 22:15:50,739 INFO    MainThread:280 [wandb_init.py:_jupyter_teardown():249] cleaning up jupyter logic
+2021-01-12 22:15:50,739 INFO    MainThread:280 [jupyter.py:save_history():208] not saving jupyter history
